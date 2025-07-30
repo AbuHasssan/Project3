@@ -1,3 +1,3 @@
 # Project3
 
-- Hey new conflict created ::
+- Hey new conflict created :)
